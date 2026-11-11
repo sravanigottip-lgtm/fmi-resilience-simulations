@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+title: "Simulation code for four papers on operational resilience in financial market infrastructure"
+type: software
+version: 1.0.0
+date-released: "2026-10-23"
+authors:
+  - family-names: "Gottipati"
+    given-names: "Sravani"
+    orcid: "https://orcid.org/0009-0001-0385-3872"
+license: MIT
+repository-code: "https://github.com/sravanigottip-lgtm/fmi-resilience-simulations"
+doi: "10.5281/zenodo.24147510"
+keywords:
+  - financial market infrastructure
+  - release governance
+  - rollback horizon
+  - AIOps
+  - discrete-event simulation
+abstract: "Python simulation code, raw results and a reference implementation accompanying four manuscripts on observability, release governance, signal fusion and rollback-aware release admission in financial market infrastructure. Simulation only; no production data."
