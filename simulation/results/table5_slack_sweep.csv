@@ -1,0 +1,5 @@
+slack_min,band,unrestricted_miss_pct,horizon_miss_pct,horizon_throughput_pct,volume_matched_control_miss_pct,control_admit_pct
+90 to 180,generous,0.43,0.0,90.8,0.3,90.7
+50 to 110,moderate,1.03,0.01,56.3,0.22,56.2
+25 to 70,tight,2.61,0.4,50.5,0.69,50.1
+12 to 35,compressed,7.37,2.88,50.5,3.12,50.1
