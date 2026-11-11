@@ -1,0 +1,20 @@
+{
+  "title": "Simulation code for four papers on operational resilience in financial market infrastructure",
+  "upload_type": "software",
+  "description": "Python simulation code, raw results and a reference implementation accompanying four manuscripts on observability, release governance, signal fusion and rollback-aware release admission in financial market infrastructure. Simulation only; no production data.",
+  "creators": [
+    {
+      "name": "Gottipati, Sravani",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0001-0385-3872"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "financial market infrastructure",
+    "release governance",
+    "rollback horizon",
+    "AIOps",
+    "discrete-event simulation"
+  ]
+}
